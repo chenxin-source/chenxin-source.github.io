@@ -3,10 +3,33 @@
     <title>博客</title>
     <link href="https://virmagic.com/feed.xml" rel="self" />
     <link href="https://virmagic.com" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-09-16T13:19:53+08:00</updated>
     <author>
         <name>陈昕</name>
     </author>
     <id>https://virmagic.com</id>
 
+    <entry>
+        <title>你好，世界！</title>
+        <author>
+            <name>陈昕</name>
+        </author>
+        <link href="https://virmagic.com/ni-haoshi-jie.html"/>
+        <id>https://virmagic.com/ni-haoshi-jie.html</id>
+        <media:content url="https://virmagic.com/media/posts/1/068.jpg" medium="image" />
+
+        <updated>2024-09-16T13:19:53+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://virmagic.com/media/posts/1/068.jpg" alt="" />
+                    你好，世界！
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://virmagic.com/media/posts/1/068.jpg" class="type:primaryImage" alt="" /></p>
+                <p>你好，世界！</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
